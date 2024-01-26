@@ -1,6 +1,6 @@
 {
   "name": "@hola.org/svg-react-loader",
-  "version": "0.4.6-hola.1",
+  "version": "0.4.6-hola.2",
   "description": "A Webpack Loader to turn SVGs into React Components",
   "main": "./lib/loader.js",
   "directories": {
@@ -30,7 +30,7 @@
   "homepage": "https://github.com/hola/svg-react-loader#readme",
   "dependencies": {
     "css": "2.2.4",
-    "loader-utils": "3.2.1",
+    "loader-utils": "1.4.2",
     "ramda": "0.21.0",
     "rx": "4.1.0",
     "traverse": "0.6.6",
